@@ -275,7 +275,7 @@ function checkPattern(){
 	//alert(pttrn+"    "+unlockPattrn);
 	if(pttrn==unlockPattrn&&pttrn!=""){
 		document.getElementById("message").textContent = "Login SuccessFul";
-		document.getElementById("content").innerHTML = "<img src='img/select.png'/><br><br><h3>The pattern matched, authentication successful.</h3>";
+		document.getElementById("content").innerHTML = "<img src='select.png'/><br><br><h3>The pattern matched, authentication successful.</h3>";
 	}
 	else{
 		document.getElementById("message").textContent = "Pattern Mismatch! Try Again";	
