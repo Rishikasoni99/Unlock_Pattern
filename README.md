@@ -13,3 +13,5 @@ Now it's time to Unlock, you have to enter the same pattern to unlock it
 Upon successfully matching the pattern, you see a green tick mark
 
 If you want to do this again, relaod the page
+🔹 Live Demo: https://unlockpattern.netlify.app
+🔹 GitHub Repository: https://github.com/Rishikasoni99/Unlock_Pattern
